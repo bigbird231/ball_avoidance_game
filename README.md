@@ -1,5 +1,5 @@
 # **Ball Avoidance Game**
-An algorithm that guides a ball escape from random generate blocks. 
+Multiple algorithms that guides a ball escape from random generate obstacles. 
 - BFS
 - Euclidean Distance
 - Collision Detection
