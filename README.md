@@ -1,7 +1,5 @@
 # escape_game
 An algorithm that guides a ball escape from random generate blocks.
-![image](https://github.com/user-attachments/assets/4b8a4ef1-a0b2-4637-b46e-83bce78c4b54)
-
 # **Ball Avoidance Game - Rules**
 
 ## **Objective**  
@@ -32,3 +30,4 @@ Control a green ball to avoid falling red obstacles for as long as possible. The
 - The final score is displayed on the screen.
 
 Enjoy the challenge of avoiding obstacles and achieving the highest score! 🚀
+![image](https://github.com/user-attachments/assets/4b8a4ef1-a0b2-4637-b46e-83bce78c4b54)
