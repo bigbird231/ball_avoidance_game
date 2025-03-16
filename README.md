@@ -1,5 +1,10 @@
 # escape_game
-An algorithm that guides a ball escape from random generate blocks. #BFS #Euclidean Distance #Collision Detection #Greedy Algorithm #A-Star*
+An algorithm that guides a ball escape from random generate blocks. 
+- BFS
+- Euclidean Distance
+- Collision Detection
+- Greedy Algorithm
+- A-Star*
 
 # **Ball Avoidance Game - Rules**
 
