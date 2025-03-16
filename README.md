@@ -1,4 +1,4 @@
-# **Ball Avoidance Game - Rules**
+# **Ball Avoidance Game**
 An algorithm that guides a ball escape from random generate blocks. 
 - BFS
 - Euclidean Distance
