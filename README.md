@@ -1,4 +1,4 @@
-# escape_game
+# **Ball Avoidance Game - Rules**
 An algorithm that guides a ball escape from random generate blocks. 
 - BFS
 - Euclidean Distance
@@ -6,7 +6,7 @@ An algorithm that guides a ball escape from random generate blocks.
 - Greedy Algorithm
 - A-Star*
 
-# **Ball Avoidance Game - Rules**
+# **Rules**
 
 ## **Objective**  
 Control a green ball to avoid falling red obstacles for as long as possible. The longer you survive, the higher your score.
