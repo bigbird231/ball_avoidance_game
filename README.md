@@ -1,3 +1,4 @@
 # escape_game
 An algorithm that guides a ball escape from random generate blocks.
-![image](https://github.com/user-attachments/assets/afbb2777-4705-417e-9821-8ade1c8bc7d9)
+Game screenshot:
+![image](https://github.com/user-attachments/assets/4b8a4ef1-a0b2-4637-b46e-83bce78c4b54)
